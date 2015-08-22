@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>zap</id>
+    <version>1.0.0</version>
+    <authors>Onat Yiğit Mercan</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://raw.githubusercontent.com/onatm/zap/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/onatm/zap</projectUrl>
+    <description>Contains build automation psake task scripts for local environments</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>build automation local psake</tags>
+  </metadata>
+</package>
